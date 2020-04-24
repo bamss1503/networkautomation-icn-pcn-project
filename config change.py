@@ -61,3 +61,8 @@ for device in all_device:
 # change hostname all device
     hostname = net_connect.show_command("show run | include hostname")+"s"
     net_connect.send_config_set(hostname)
+    
+# save running-config to startup-config
+    net_connect.save_config()
+    print(net_connect.show_command("show run | include hostname")+" save complete")
+    
