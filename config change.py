@@ -58,6 +58,6 @@ for device in all_device:
     print(net_connect.send_command("show run | include hostname")+" add ip complete")
     ip.pop(0)
 
-# chande hostname all device
+# change hostname all device
     hostname = net_connect.show_command("show run | include hostname")+"s"
     net_connect.send_config_set(hostname)
