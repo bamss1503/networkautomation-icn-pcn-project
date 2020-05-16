@@ -1,4 +1,4 @@
-![Python Logo](https://www.python.org/static/img/python-logo@2x.png)
+![Python Logo](logo/python-logo@2x.png)<img src="logo/netmiko.png" width="300" height="200">
 # Network Automation using Python
 Network Automation เป็นกระบวนการของการกำหนดค่า การจัดการ การทดสอบ การปรับใช้และการดำเนินงานของอุปกรณ์ทางกายภาพและเสมือนภายในเครือข่ายโดยอัตโนมัติ ด้วยงานและฟังก์ชั่นเครือข่ายในชีวิตประจำวันและฟังก์ชั่นอัตโนมัติ ทำซ้ำกระบวนการควบคุมและจัดการโดยอัตโนมัติ ปรับปรุงความพร้อมใช้งานบริการเครือข่าย
 
