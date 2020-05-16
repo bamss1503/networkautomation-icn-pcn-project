@@ -9,6 +9,8 @@ Netmiko เป็นlibraryบนภาษา python ที่ไม่เสี
 * simple connection
 * display information of device
 * basic configuration command
+# Video
+# Document
 # Member
 |ชื่อ-นามสกุล|รหัสนักศึกษา|
 |----------|-----------|
