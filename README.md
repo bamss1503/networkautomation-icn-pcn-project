@@ -12,7 +12,7 @@ Netmiko เป็นlibraryบนภาษา python ที่ไม่เสี
 * basic configuration command
 # Video
 # Document
-https://docs.google.com/document/d/1a4fvI6nCydUBNMvqYYB9y3dloQ5ru1u9/edit#heading=h.cutsccpxfasy
+https://drive.google.com/file/d/1a4fvI6nCydUBNMvqYYB9y3dloQ5ru1u9/view?usp=sharing
 # Member
 |ชื่อ-นามสกุล|รหัสนักศึกษา|
 |----------|-----------|
