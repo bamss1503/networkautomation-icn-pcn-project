@@ -11,7 +11,7 @@ Netmiko เป็นlibraryบนภาษา python ที่ไม่เสี
 * display information of device
 * basic configuration command
 # Video
-https://youtu.be/_TU0V5du0l4
+https://youtu.be/ds2hbvvSZWw
 # Document
 https://drive.google.com/file/d/1a4fvI6nCydUBNMvqYYB9y3dloQ5ru1u9/view?usp=sharing
 # Member
