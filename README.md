@@ -14,6 +14,7 @@ Netmiko เป็นlibraryบนภาษา python ที่ไม่เสี
 https://youtu.be/ds2hbvvSZWw
 # Document
 https://drive.google.com/file/d/1a4fvI6nCydUBNMvqYYB9y3dloQ5ru1u9/view?usp=sharing
+สำรอง(https://drive.google.com/file/d/1Uo_94owslTm8DPfNPCLvdiOsahvQGWGT/view?usp=sharing)
 # Member
 |ชื่อ-นามสกุล|รหัสนักศึกษา|
 |----------|-----------|
